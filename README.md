@@ -1,4 +1,4 @@
-<h1 >❔ Random Quote Generator App</h1
+<h1 >❓ Random Quote Generator App</h1
 
 <p>A small application that generates random sentences. It was done entirely with javascript and it was a very nice project.
 </p>
